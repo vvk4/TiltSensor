@@ -1,0 +1,14 @@
+E:\prog\TestTask\PC\ControlBalance\bin\Release\TestTask.exe.config
+E:\prog\TestTask\PC\ControlBalance\bin\Release\TestTask.exe.manifest
+E:\prog\TestTask\PC\ControlBalance\bin\Release\TestTask.application
+E:\prog\TestTask\PC\ControlBalance\bin\Release\TestTask.exe
+E:\prog\TestTask\PC\ControlBalance\bin\Release\TestTask.pdb
+E:\prog\TestTask\PC\ControlBalance\obj\x86\Release\TestTask.csprojAssemblyReference.cache
+E:\prog\TestTask\PC\ControlBalance\obj\x86\Release\ControlBalance.Form1.resources
+E:\prog\TestTask\PC\ControlBalance\obj\x86\Release\ControlBalance.Properties.Resources.resources
+E:\prog\TestTask\PC\ControlBalance\obj\x86\Release\TestTask.csproj.GenerateResource.cache
+E:\prog\TestTask\PC\ControlBalance\obj\x86\Release\TestTask.csproj.CoreCompileInputs.cache
+E:\prog\TestTask\PC\ControlBalance\obj\x86\Release\TestTask.exe.manifest
+E:\prog\TestTask\PC\ControlBalance\obj\x86\Release\TestTask.application
+E:\prog\TestTask\PC\ControlBalance\obj\x86\Release\TestTask.exe
+E:\prog\TestTask\PC\ControlBalance\obj\x86\Release\TestTask.pdb
